@@ -124,10 +124,10 @@ body
     user-select: none;
     }
 .footer {
-  position: fixed;
-  left: 0;
-  margin-bottom: 20px;
-  width: 100%;
-  color: white;
-  text-align: center;
+position: fixed;  
+left: 10px;  
+bottom: 5px;  
+right: 10px;   
+width: 95%;  
+text-align: center;  
 }
