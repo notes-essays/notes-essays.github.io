@@ -4,18 +4,30 @@
        display:center;
     }
   }
-  a {
+  #top a:link {
     text-decoration: none;
-    color:black;
-    }
-  a:link, a:visited {
-    text-decoration: none;
-    color:black;
+    color: black;
   }
-  a:hover {
+  #top a:hover {
     text-decoration: none;
-    color:black;
+    color: black;
   }
+  #top a:visited {
+    text-decoration: none;
+    color: black;
+  }
+#bot a:link {
+  text-decoration: none;
+  color: blue;
+}
+#bot a:hover {
+  text-decoration: none;
+  color: blue;
+}
+#bot a:visited {
+  text-decoration: none;
+  color: blue;
+}
 body
 {
  margin:0px auto;
