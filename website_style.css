@@ -4,7 +4,18 @@
        display:center;
     }
   }
-
+  a {
+    text-decoration: none;
+    color:black;
+    }
+  a:link, a:visited {
+    text-decoration: none;
+    color:black;
+  }
+  a:hover {
+    text-decoration: none;
+    color:black;
+  }
 body
 {
  margin:0px auto;
@@ -18,6 +29,7 @@ body
  width:100%;
  margin:0px auto;
  padding:0px;
+ text-align:center;
  height:0px;
  line-height:70px;
 }
