@@ -124,7 +124,7 @@ body
     user-select: none;
     }
 .footer {
-position: fixed;  
+position: bottom;  
 left: 10px;  
 bottom: 5px;  
 right: 10px;   
