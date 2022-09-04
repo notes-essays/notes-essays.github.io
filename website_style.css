@@ -58,7 +58,8 @@ body
  margin-top:100px;
  width:70vh;
  height:400px;
- padding:50px;
+ padding-right:5vh;
+ padding-left:6vh;
 }
 #home h1
 {
